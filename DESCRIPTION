@@ -2,7 +2,7 @@ Package: regexcite
 Title: Make Regular Expressions More Exciting
 Version: 0.0.0.9000
 Authors@R: 
-    person("Jane", "Doe", , "jane@example.com", role = c("aut", "cre"))
+    person("Jane", "Doe", , "jane@example.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-2006-4250"))
 Description: Convenience functions to make some common tasks with string
     manipulation and regular expressions a bit easier.
 License: MIT + file LICENSE
