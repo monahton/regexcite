@@ -14,5 +14,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
-URL: https://github.com/monahton/regexcite
+URL: https://github.com/monahton/regexcite, https://monahton.github.io/regexcite/
 BugReports: https://github.com/monahton/regexcite/issues
